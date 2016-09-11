@@ -35,7 +35,7 @@ Standalone version already embeds `fetch`.
 Alternately, you can use a module loader like [webpack](http://webpack.github.io/).
 
 ```js
-import restful from 'arcsecond.js';
+import arcsecond from 'arcsecond.js';
 ```
 
 ## Usage
