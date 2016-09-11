@@ -16,7 +16,7 @@
   "author": "Cédric Foellmi <cedric@onekilopars.ec>",
   "license": "MIT",
   "dependencies": {
-    "restful.js": "0.9.6",
+    "restful.js": "0.9.6"
   },
   "devDependencies": {
     "babel": "5.8.35",
