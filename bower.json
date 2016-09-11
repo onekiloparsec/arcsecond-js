@@ -1,0 +1,26 @@
+{
+  "name": "arcsecond.js",
+  "version": "0.1.0",
+  "homepage": "https://github.com/onekiloparsec/arcsecond.js",
+  "authors": [
+    "Cédric Foellmi <cedric@onekilopars.ec>"
+  ],
+  "description": "A javascript client for interacting with the server-side RESTful resources of arcsecond.io.",
+  "main": "dist/arcsecond.min.js",
+  "keywords": [
+    "rest",
+    "restful",
+    "api",
+    "arcsecond.io",
+    "astro"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "node_modules",
+    "test",
+    "src",
+    "package.json"
+  ]
+}
