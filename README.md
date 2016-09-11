@@ -12,7 +12,7 @@
 </p>
 
 
-# WARNING: The whole library is very much in progress! Even this README...
+### WARNING: The whole library is very much in progress! Even this README...
 
 # arcsecond.js [![Build Status](https://travis-ci.org/onekiloparsec/arcsecond.js.svg?branch=master)](https://travis-ci.org/onekiloparsec/arcsecond.js)
 
